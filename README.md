@@ -55,3 +55,5 @@ Optimisation categories (pick exactly one):
 
 You push and open the pull request yourself — the agent does not ship its own work.
 Compare the result against `.github/workflows/ci.optimized.example.yml` after the lab.
+<!-- risk-gate test: normal_review docs-only change -->
+
