@@ -1,5 +1,6 @@
 const _ = require("lodash");
 
+// risk-gate test: no_go app-logic change
 const start = Date.now();
 
 function wait(ms) {

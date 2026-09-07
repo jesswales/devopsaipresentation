@@ -1,5 +1,6 @@
 name: ci-lab
 
+# risk-gate test: no_go workflow change
 on:
   workflow_dispatch:
   pull_request:
